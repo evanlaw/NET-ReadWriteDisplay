@@ -1,0 +1,14 @@
+C:\Users\ECS\source\repos\TestDBReadWriteDisplay\obj\Debug\TestDBReadWriteDisplay.csprojAssemblyReference.cache
+C:\Users\ECS\source\repos\TestDBReadWriteDisplay\obj\Debug\MainWindow.g.cs
+C:\Users\ECS\source\repos\TestDBReadWriteDisplay\obj\Debug\App.g.cs
+C:\Users\ECS\source\repos\TestDBReadWriteDisplay\obj\Debug\TestDBReadWriteDisplay_MarkupCompile.cache
+C:\Users\ECS\source\repos\TestDBReadWriteDisplay\obj\Debug\TestDBReadWriteDisplay_MarkupCompile.lref
+C:\Users\ECS\source\repos\TestDBReadWriteDisplay\bin\Debug\TestDBReadWriteDisplay.exe.config
+C:\Users\ECS\source\repos\TestDBReadWriteDisplay\bin\Debug\TestDBReadWriteDisplay.exe
+C:\Users\ECS\source\repos\TestDBReadWriteDisplay\bin\Debug\TestDBReadWriteDisplay.pdb
+C:\Users\ECS\source\repos\TestDBReadWriteDisplay\obj\Debug\MainWindow.baml
+C:\Users\ECS\source\repos\TestDBReadWriteDisplay\obj\Debug\TestDBReadWriteDisplay.g.resources
+C:\Users\ECS\source\repos\TestDBReadWriteDisplay\obj\Debug\TestDBReadWriteDisplay.Properties.Resources.resources
+C:\Users\ECS\source\repos\TestDBReadWriteDisplay\obj\Debug\TestDBReadWriteDisplay.csproj.GenerateResource.cache
+C:\Users\ECS\source\repos\TestDBReadWriteDisplay\obj\Debug\TestDBReadWriteDisplay.exe
+C:\Users\ECS\source\repos\TestDBReadWriteDisplay\obj\Debug\TestDBReadWriteDisplay.pdb
